@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Backend Development.<br>👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning and exploring more on ML ,web3,DevOps.<br>💬 Ask me about : Web Development, Computer Networks ,etc.<br>⚡ Fun fact : I am a Former National Table Tennis player .
+I am a Great Jerker
 
 
 ## 🌐 Socials:
