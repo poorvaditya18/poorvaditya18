@@ -2,7 +2,7 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2018/11/rage-gif-meme-2.gif)](https://poorvadityabehre.io)
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development.<br>👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning and exploring more on ML ,web3,DevOps.<br>💬 Ask me about : Web Development, Computer Networks ,etc.<br>⚡ Fun fact : I am a Former National Table Tennis player .
+🔭 I’m currently working as Software Developer Intern at Noccarc Robotics.<br>👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning and exploring more on System Design , Cloud , DevOps.<br>💬 Ask me about : Web Development, Computer Networks ,etc.<br>⚡ Fun fact : I am a Former National Table Tennis player .
 
 
 ## 🌐 Socials:
